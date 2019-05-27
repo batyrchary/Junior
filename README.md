@@ -2,7 +2,9 @@
 
 
 
-raytracer
+## raytracer
+
+<img src="./raytraycer/output/att_test.png">
 
 ```
 $ make 
