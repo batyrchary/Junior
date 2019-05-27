@@ -7,7 +7,7 @@
 ### Results
 
 
-![alt-text-1](<img src="./raytracer/output/att_test.png"> "title-1") ![alt-text-2](<img src="./raytracer/output/att_test.png"> "title-2")
+![alt-text-1](<./raytracer/output/att_test.png> "title-1") ![alt-text-2](<./raytracer/output/att_test.png> "title-2")
 
 <img src="./raytracer/output/att_test.png">
 
