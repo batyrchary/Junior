@@ -8,13 +8,13 @@
 
 
 <p float="left">
-  <img src="./raytracer/output/att_test.png" width="100" />
-  <img src="./raytracer/output/att_test.png" width="100" /> 
-  <img src="./raytracer/output/att_test.png" width="100" />
+  <img src="./raytracer/output/att_test.png" width="150" />
+  <img src="./raytracer/output/bunny.png" width="150" /> 
+  <img src="./raytracer/output/spheres.png" width="150" />
+  <img src="./raytracer/output/teapot.png" width="150" />
 </p>
 
 
-<img src="./raytracer/output/att_test.png">
 
 ```
 $ make 
