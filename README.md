@@ -23,16 +23,17 @@ $ ./raytracer ./inputs/scenes/teapot_scene.txt ./inputs/cameras/teapot_camera.tx
 ```
 
 
-hw2
+raytracer_with_texture_mapping
 
 ```
 $ make 
 
 $ <path_to_makeVideo.sh> ./raytracer <input_path_to_scene>  <input_path_to_camera> out_put_name
 
-$ ./scripts/makeVideo.sh ./raytracer ./scenes/four_cubes ./cameras/four_cubes four_cubes
+$ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/four_cubes ./inputs/cameras/four_cubes four_cubes
 
-$ ./scripts/makeVideo.sh ./raytracer ./scenes/rolling_earth ./cameras/rolling_earth rolling_earth
+$ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/rolling_earth ./inputs/cameras/rolling_earth rolling_earth
+
 
 ```
 
@@ -50,6 +51,10 @@ $ make
 
 ```
 
+
+
+sudo apt-get install freeglut3-dev
+sudo apt-get install libglew-dev
 
 
 
