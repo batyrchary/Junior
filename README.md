@@ -81,10 +81,9 @@ $ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/rolling_earth ./inpu
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_Forward Rendering_Pipeline/output/1.ppm" width="150" />
-  <img src="./raytracer_with_Forward Rendering_Pipeline/output/2.ppm" width="150" /> 
-  <img src="./raytracer_with_Forward Rendering_Pipeline/output/3.ppm" width="150" />
- 
+  <img src="./raytracer_with_Forward Rendering_Pipeline/output/1.png" width="150" />
+  <img src="./raytracer_with_Forward Rendering_Pipeline/output/2.png" width="150" /> 
+  <img src="./raytracer_with_Forward Rendering_Pipeline/output/3.png" width="150" />
 </p>
 
 
