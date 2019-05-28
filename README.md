@@ -42,8 +42,8 @@ Implementation is under **raytracer_with_texture_mapping** folder.
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="200" />
-  <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="200" /> 
+  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="250" />
+  <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="250" /> 
   <img src="./raytracer_with_texture_mapping/output/cube.gif" width="200" />
 </p>
 
