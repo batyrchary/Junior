@@ -11,10 +11,10 @@ Full implementation of **raytracer** with forward rendering pipeline, modeling t
 
 ### Results
 <p float="left">
-  <img src="./raytracer/output/att_test.png" width="210" />
-  <img src="./raytracer/output/bunny.png" width="210" /> 
-  <img src="./raytracer/output/spheres.png" width="210" />
-  <img src="./raytracer/output/teapot.png" width="260" />
+  <img src="./raytracer/output/att_test.png" width="200" />
+  <img src="./raytracer/output/bunny.png" width="200" /> 
+  <img src="./raytracer/output/spheres.png" width="200" />
+  <img src="./raytracer/output/teapot.png" width="250" />
 </p>
 
 ### Run
@@ -74,7 +74,7 @@ $ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/rolling_earth ./inpu
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_Forward Rendering_Pipeline/results/1.png" width="300" />
+  <img src="./raytracer_with_Forward Rendering_Pipeline/results/1.png" width="290" />
   <img src="./raytracer_with_Forward Rendering_Pipeline/results/2.png" width="300" /> 
   <img src="./raytracer_with_Forward Rendering_Pipeline/results/3.png" width="300" />
 </p>
