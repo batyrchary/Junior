@@ -6,16 +6,6 @@ Full implementation of **raytracer** with forward rendering pipeline, modeling t
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## Raytracer
 
 
@@ -27,8 +17,7 @@ Full implementation of **raytracer** with forward rendering pipeline, modeling t
   <img src="./raytracer/output/teapot.png" width="200" />
 </p>
 
-
-
+### Run
 ```
 $ make 
 $ ./raytracer <input_path_to_scene>  <input_path_to_camera> 
@@ -43,9 +32,6 @@ $ ./raytracer ./inputs/scenes/teapot_scene.txt ./inputs/cameras/teapot_camera.tx
 
 
 
-
-
-
 ***
 
 ## Raytracer With Texture Mapping
@@ -53,6 +39,13 @@ $ ./raytracer ./inputs/scenes/teapot_scene.txt ./inputs/cameras/teapot_camera.tx
 Implementation is under **raytracer_with_texture_mapping** folder. 
 
 **Note:** Software generates image of each frame and then creates **.mp4** file. Thus, it may consume large memory and time.
+
+### Results
+<p float="left">
+  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="200" />
+  <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="200" /> 
+  <img src="./raytracer_with_texture_mapping/output/cube.gif" width="200" />
+</p>
 
 
 ### Run
@@ -76,7 +69,7 @@ $ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/rolling_earth ./inpu
 
 ## Raytracer with Forward Rendering Pipeline
 
-**raytracer_with_Forward Rendering_Pipeline** folder contains implementation of  **modeling transformation**, **viewing transformation**, and **rasterization** stages of the Forward Rendering Pipeline.
+**raytracer_with_Forward Rendering_Pipeline** folder contains implementation of  **modeling transformation**, **viewing transformation**, and **rasterization** stages of the Forward Rendering Pipeline. Generated results are in **.ppm** format.
 
 
 ### Results
