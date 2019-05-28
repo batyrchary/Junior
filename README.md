@@ -11,10 +11,10 @@ Full implementation of **raytracer** with forward rendering pipeline, modeling t
 
 ### Results
 <p float="left">
-  <img src="./raytracer/output/att_test.png" width="150" />
-  <img src="./raytracer/output/bunny.png" width="150" /> 
-  <img src="./raytracer/output/spheres.png" width="150" />
-  <img src="./raytracer/output/teapot.png" width="200" />
+  <img src="./raytracer/output/att_test.png" width="250" />
+  <img src="./raytracer/output/bunny.png" width="250" /> 
+  <img src="./raytracer/output/spheres.png" width="250" />
+  <img src="./raytracer/output/teapot.png" width="300" />
 </p>
 
 ### Run
@@ -42,8 +42,8 @@ Implementation is under **raytracer_with_texture_mapping** folder.
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="300" />
-  <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="280" /> 
+  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="320" />
+  <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="300" /> 
   <img src="./raytracer_with_texture_mapping/output/cube.gif" width="200" />
 </p>
 
@@ -74,9 +74,9 @@ $ ./inputs/scripts/makeVideo.sh ./raytracer ./inputs/scenes/rolling_earth ./inpu
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_Forward Rendering_Pipeline/results/1.png" width="200" />
-  <img src="./raytracer_with_Forward Rendering_Pipeline/results/2.png" width="200" /> 
-  <img src="./raytracer_with_Forward Rendering_Pipeline/results/3.png" width="200" />
+  <img src="./raytracer_with_Forward Rendering_Pipeline/results/1.png" width="250" />
+  <img src="./raytracer_with_Forward Rendering_Pipeline/results/2.png" width="250" /> 
+  <img src="./raytracer_with_Forward Rendering_Pipeline/results/3.png" width="250" />
 </p>
 
 
