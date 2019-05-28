@@ -11,10 +11,10 @@ Full implementation of **raytracer** with forward rendering pipeline, modeling t
 
 ### Results
 <p float="left">
-  <img src="./raytracer/output/att_test.png" width="250" />
-  <img src="./raytracer/output/bunny.png" width="250" /> 
-  <img src="./raytracer/output/spheres.png" width="250" />
-  <img src="./raytracer/output/teapot.png" width="300" />
+  <img src="./raytracer/output/att_test.png" width="220" />
+  <img src="./raytracer/output/bunny.png" width="220" /> 
+  <img src="./raytracer/output/spheres.png" width="220" />
+  <img src="./raytracer/output/teapot.png" width="280" />
 </p>
 
 ### Run
@@ -42,7 +42,7 @@ Implementation is under **raytracer_with_texture_mapping** folder.
 
 ### Results
 <p float="left">
-  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="320" />
+  <img src="./raytracer_with_texture_mapping/output/three_spheres.png" width="350" />
   <img src="./raytracer_with_texture_mapping/output/rolling.gif" width="300" /> 
   <img src="./raytracer_with_texture_mapping/output/cube.gif" width="200" />
 </p>
